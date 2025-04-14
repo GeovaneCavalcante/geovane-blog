@@ -2,169 +2,169 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geovanecavalcante.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/algorithms/</loc>
+    <loc>http://localhost:1313/tags/algorithms/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/desenvolvimento/</loc>
+    <loc>http://localhost:1313/categories/desenvolvimento/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/posts/funcoes-anonimas-variaveis-go/</loc>
+    <loc>http://localhost:1313/posts/funcoes-anonimas-variaveis-go/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/function/</loc>
+    <loc>http://localhost:1313/tags/function/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/go/</loc>
+    <loc>http://localhost:1313/categories/go/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/go/</loc>
+    <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/programa%C3%A7%C3%A3o/</loc>
+    <loc>http://localhost:1313/categories/programa%C3%A7%C3%A3o/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/programming/</loc>
+    <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/capacita/</loc>
+    <loc>http://localhost:1313/tags/capacita/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/talks/ia-na-rotina-de-trabalho/</loc>
+    <loc>http://localhost:1313/talks/ia-na-rotina-de-trabalho/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/ia/</loc>
+    <loc>http://localhost:1313/categories/ia/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/ia/</loc>
+    <loc>http://localhost:1313/tags/ia/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/intelig%C3%AAncia-artificial/</loc>
+    <loc>http://localhost:1313/tags/intelig%C3%AAncia-artificial/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/palestras/</loc>
+    <loc>http://localhost:1313/categories/palestras/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/produtividade/</loc>
+    <loc>http://localhost:1313/tags/produtividade/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/talks/</loc>
+    <loc>http://localhost:1313/talks/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/gophercon/</loc>
+    <loc>http://localhost:1313/tags/gophercon/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/talks/instrumentalizando-microservicos-go-opentelemetry/</loc>
+    <loc>http://localhost:1313/talks/instrumentalizando-microservicos-go-opentelemetry/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/microsservi%C3%A7os/</loc>
+    <loc>http://localhost:1313/tags/microsservi%C3%A7os/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/observabilidade/</loc>
+    <loc>http://localhost:1313/tags/observabilidade/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/opentelemetry/</loc>
+    <loc>http://localhost:1313/tags/opentelemetry/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/facimp/</loc>
+    <loc>http://localhost:1313/tags/facimp/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/iniciantes/</loc>
+    <loc>http://localhost:1313/tags/iniciantes/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/talks/onboard-python/</loc>
+    <loc>http://localhost:1313/talks/onboard-python/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/programa%C3%A7%C3%A3o/</loc>
+    <loc>http://localhost:1313/tags/programa%C3%A7%C3%A3o/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/python/</loc>
+    <loc>http://localhost:1313/categories/python/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/flisol/</loc>
+    <loc>http://localhost:1313/tags/flisol/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/redes/</loc>
+    <loc>http://localhost:1313/categories/redes/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/redes/</loc>
+    <loc>http://localhost:1313/tags/redes/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/sdn/</loc>
+    <loc>http://localhost:1313/tags/sdn/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/talks/sdn-com-software-livre/</loc>
+    <loc>http://localhost:1313/talks/sdn-com-software-livre/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/software-livre/</loc>
+    <loc>http://localhost:1313/tags/software-livre/</loc>
     <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/design-patterns/</loc>
+    <loc>http://localhost:1313/categories/design-patterns/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/design-patterns/</loc>
+    <loc>http://localhost:1313/tags/design-patterns/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/selenium/</loc>
+    <loc>http://localhost:1313/tags/selenium/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/singleton/</loc>
+    <loc>http://localhost:1313/tags/singleton/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/posts/singleton-python-selenium/</loc>
+    <loc>http://localhost:1313/posts/singleton-python-selenium/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/webdriver/</loc>
+    <loc>http://localhost:1313/tags/webdriver/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/automa%C3%A7%C3%A3o/</loc>
+    <loc>http://localhost:1313/tags/automa%C3%A7%C3%A3o/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/posts/selenium-python-headless-chrome/</loc>
+    <loc>http://localhost:1313/posts/selenium-python-headless-chrome/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/web-scraping/</loc>
+    <loc>http://localhost:1313/tags/web-scraping/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/categories/banco-de-dados/</loc>
+    <loc>http://localhost:1313/categories/banco-de-dados/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/banco-de-dados/</loc>
+    <loc>http://localhost:1313/tags/banco-de-dados/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/desenvolvimento/</loc>
+    <loc>http://localhost:1313/tags/desenvolvimento/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/frameworks/</loc>
+    <loc>http://localhost:1313/tags/frameworks/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/posts/orm/</loc>
+    <loc>http://localhost:1313/posts/orm/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/tags/orm/</loc>
+    <loc>http://localhost:1313/tags/orm/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://geovanecavalcante.com/page/search/</loc>
+    <loc>http://localhost:1313/page/search/</loc>
   </url><url>
-    <loc>https://geovanecavalcante.com/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
   </url>
 </urlset>

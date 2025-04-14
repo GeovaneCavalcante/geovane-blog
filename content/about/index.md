@@ -6,11 +6,11 @@ layout: "about"
 slug: "about"
 ---
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Nos últimos 8 anos, venho criando soluções escaláveis e de alta performance, lidando com desafios de arquitetura, sistemas distribuídos e plataformas robustas. Gosto de pensar a engenharia além do código — focando em boas práticas, clareza, resiliência e impacto real no dia a dia das pessoas e dos times.
+Sou apaixonado por tecnologia e desenvolvimento de software. Nos últimos 8 anos, venho criando soluções escaláveis e de alta performance, lidando com desafios de arquitetura, sistemas distribuídos e plataformas robustas. Gosto de pensar na engenharia além do código — focando em boas práticas, clareza, resiliência e impacto real no dia a dia das pessoas e dos times.
 
 ## Sobre o que curto trabalhar
 
-Grande parte do meu tempo é dedicada a desenhar e construir sistemas backend bem estruturados. Tenho uma quedinha por arquitetura de software, especialmente quando envolve microsserviços, eventos e boas práticas como DDD, Clean Architecture, Event Sourcing e CQRS.
+Grande parte do meu tempo é dedicado a desenhar e construir sistemas backend bem estruturados. Tenho uma quedinha por arquitetura de software, especialmente quando envolve microsserviços, eventos e boas práticas como DDD, Clean Architecture, Event Sourcing e CQRS.
 
 Também sou bem envolvido com infraestrutura — seja na automação de pipelines, no provisionamento de ambientes em nuvem ou na garantia de observabilidade, resiliência e performance em produção.
 
