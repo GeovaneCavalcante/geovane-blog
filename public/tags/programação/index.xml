@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Programação on Geovane Cavalcante</title>
+        <link>http://localhost:1313/tags/programa%C3%A7%C3%A3o/</link>
+        <description>Recent content in Programação on Geovane Cavalcante</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt-br</language>
+        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/programa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Onboard Python</title>
+        <link>http://localhost:1313/talks/onboard-python/</link>
+        <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/talks/onboard-python/</guid>
+        <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
+&lt;/h2&gt;&lt;p&gt;Apresentação introdutória sobre a linguagem de programação Python.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/Vf9xGjrAljA&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>

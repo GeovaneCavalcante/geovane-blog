@@ -2,67 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54440/categories/banco-de-dados/</loc>
+    <loc>http://localhost:1313/categories/banco-de-dados/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/banco-de-dados/</loc>
+    <loc>http://localhost:1313/tags/banco-de-dados/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/categories/desenvolvimento/</loc>
+    <loc>http://localhost:1313/categories/desenvolvimento/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/desenvolvimento/</loc>
+    <loc>http://localhost:1313/tags/desenvolvimento/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/frameworks/</loc>
+    <loc>http://localhost:1313/tags/frameworks/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/posts/orm/</loc>
+    <loc>http://localhost:1313/posts/orm/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/orm/</loc>
+    <loc>http://localhost:1313/tags/orm/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/categories/go/</loc>
+    <loc>http://localhost:1313/tags/capacita/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/ia-na-rotina-de-trabalho/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ia/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ia/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/intelig%C3%AAncia-artificial/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/palestras/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/produtividade/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/go/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/go/</loc>
+    <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/gophercon/</loc>
+    <loc>http://localhost:1313/tags/gophercon/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/talks/instrumentalizando-microservicos-go-opentelemetry/</loc>
+    <loc>http://localhost:1313/talks/instrumentalizando-microservicos-go-opentelemetry/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/microsservi%C3%A7os/</loc>
+    <loc>http://localhost:1313/tags/microsservi%C3%A7os/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/observabilidade/</loc>
+    <loc>http://localhost:1313/tags/observabilidade/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/tags/opentelemetry/</loc>
+    <loc>http://localhost:1313/tags/opentelemetry/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/categories/palestras/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/facimp/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54440/talks/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/iniciantes/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/onboard-python/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/python/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/flisol/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/redes/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/redes/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sdn/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/talks/sdn-com-software-livre/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-livre/</loc>
+    <lastmod>2021-04-24T00:00:00+00:00</lastmod>
   </url>
 </urlset>

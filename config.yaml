@@ -31,14 +31,41 @@ params:
     emoji: '👨‍💻'
     subtitle: 'Engenheiro de Software'
 
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+
+  socialShare: true
+  socialShareTwitter: true
+  socialShareFacebook: true
+  socialShareLinkedin: true
+  socialShareWhatsapp: true
+  socialShareTelegram: true
+
   comments:
     enabled: true
     provider: giscus
     giscus:
       repo: geovanecavalcante/geovane-blog
-      repoId: # Você precisa preencher isso
-      category: Comments
-      categoryId: # Você precisa preencher isso
+      repoId: R_kgDOOZYdcg
+      category: General
+      categoryId: DIC_kwDOOZYdcs4CpFV4
       mapping: pathname
       reactionsEnabled: 1
       emitMetadata: 0

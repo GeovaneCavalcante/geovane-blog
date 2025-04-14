@@ -2,40 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Geovane Cavalcante</title>
-        <link>http://localhost:54440/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54440/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Banco De Dados</title>
-        <link>http://localhost:54440/categories/banco-de-dados/</link>
+        <link>http://localhost:1313/categories/banco-de-dados/</link>
         <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:54440/categories/banco-de-dados/</guid>
+        <guid>http://localhost:1313/categories/banco-de-dados/</guid>
         <description></description>
         </item>
         <item>
         <title>Desenvolvimento</title>
-        <link>http://localhost:54440/categories/desenvolvimento/</link>
+        <link>http://localhost:1313/categories/desenvolvimento/</link>
         <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:54440/categories/desenvolvimento/</guid>
+        <guid>http://localhost:1313/categories/desenvolvimento/</guid>
         <description></description>
         </item>
         <item>
-        <title>Go</title>
-        <link>http://localhost:54440/categories/go/</link>
-        <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+        <title>IA</title>
+        <link>http://localhost:1313/categories/ia/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:54440/categories/go/</guid>
+        <guid>http://localhost:1313/categories/ia/</guid>
         <description></description>
         </item>
         <item>
         <title>Palestras</title>
-        <link>http://localhost:54440/categories/palestras/</link>
+        <link>http://localhost:1313/categories/palestras/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/palestras/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Go</title>
+        <link>http://localhost:1313/categories/go/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:54440/categories/palestras/</guid>
+        <guid>http://localhost:1313/categories/go/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Python</title>
+        <link>http://localhost:1313/categories/python/</link>
+        <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/python/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Redes</title>
+        <link>http://localhost:1313/categories/redes/</link>
+        <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/redes/</guid>
         <description></description>
         </item>
         

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Observabilidade on Geovane Cavalcante</title>
-        <link>http://localhost:54440/tags/observabilidade/</link>
+        <link>http://localhost:1313/tags/observabilidade/</link>
         <description>Recent content in Observabilidade on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54440/tags/observabilidade/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/observabilidade/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Instrumentalizando microsserviços em Go com OpenTelemetry</title>
-        <link>http://localhost:54440/talks/instrumentalizando-microservicos-go-opentelemetry/</link>
+        <link>http://localhost:1313/talks/instrumentalizando-microservicos-go-opentelemetry/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:54440/talks/instrumentalizando-microservicos-go-opentelemetry/</guid>
+        <guid>http://localhost:1313/talks/instrumentalizando-microservicos-go-opentelemetry/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação sobre instrumentalização de microsserviços escritos em Go utilizando OpenTelemetry, abordando conceitos de observabilidade e sua implementação na prática.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
