@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Singleton on Geovane Cavalcante</title>
-        <link>http://localhost:1313/tags/singleton/</link>
+        <link>https://geovanecavalcante.com/tags/singleton/</link>
         <description>Recent content in Singleton on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/singleton/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geovanecavalcante.com/tags/singleton/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Singleton Python para compartilhamento de instância do Web Driver Selenium</title>
-        <link>http://localhost:1313/posts/singleton-python-selenium/</link>
+        <link>https://geovanecavalcante.com/posts/singleton-python-selenium/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/singleton-python-selenium/</guid>
+        <guid>https://geovanecavalcante.com/posts/singleton-python-selenium/</guid>
         <description>&lt;p&gt;Utilizando Selenium em alguns casos você precisa de uma única instância desse web driver em várias partes da sua aplicação, como exemplo uma aplicação para WhatsApp Web. Guardar a sessão do web driver e carregá-la em uma nova instância ao necessitar em mais de um serviço, pode acabar tendo perda de performance e flexibilidade da aplicação, então usar uma padrão de projeto como Singleton acaba sendo uma boa saída.&lt;/p&gt;
 &lt;p&gt;O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância. Utilizar o padrão Singleton quando uma classe em seu programa deve ter apenas uma instância disponível para todos seus clientes; por exemplo, um objeto de base de dados único compartilhado por diferentes partes do programa.&lt;/p&gt;
 &lt;h2 id=&#34;exemplo&#34;&gt;Exemplo

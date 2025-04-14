@@ -111,6 +111,7 @@ params:
       emitMetadata: 0
       inputPosition: top
       lang: pt
+      theme: dark
 
   footer:
     since: 2024

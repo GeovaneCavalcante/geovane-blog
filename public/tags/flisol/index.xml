@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Flisol on Geovane Cavalcante</title>
-        <link>http://localhost:1313/tags/flisol/</link>
+        <link>https://geovanecavalcante.com/tags/flisol/</link>
         <description>Recent content in Flisol on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/flisol/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://geovanecavalcante.com/tags/flisol/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>SDN Com Software Livre</title>
-        <link>http://localhost:1313/talks/sdn-com-software-livre/</link>
+        <link>https://geovanecavalcante.com/talks/sdn-com-software-livre/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/talks/sdn-com-software-livre/</guid>
+        <guid>https://geovanecavalcante.com/talks/sdn-com-software-livre/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação sobre Software Defined Network (SDN) e como implementá-lo utilizando soluções de software livre.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Geovane Cavalcante</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://geovanecavalcante.com/categories/</link>
         <description>Recent content in Categories on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geovanecavalcante.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Desenvolvimento</title>
-        <link>http://localhost:1313/categories/desenvolvimento/</link>
+        <link>https://geovanecavalcante.com/categories/desenvolvimento/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/desenvolvimento/</guid>
+        <guid>https://geovanecavalcante.com/categories/desenvolvimento/</guid>
         <description></description>
         </item>
         <item>
         <title>Go</title>
-        <link>http://localhost:1313/categories/go/</link>
+        <link>https://geovanecavalcante.com/categories/go/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/go/</guid>
+        <guid>https://geovanecavalcante.com/categories/go/</guid>
         <description></description>
         </item>
         <item>
         <title>Programação</title>
-        <link>http://localhost:1313/categories/programa%C3%A7%C3%A3o/</link>
+        <link>https://geovanecavalcante.com/categories/programa%C3%A7%C3%A3o/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/programa%C3%A7%C3%A3o/</guid>
+        <guid>https://geovanecavalcante.com/categories/programa%C3%A7%C3%A3o/</guid>
         <description></description>
         </item>
         <item>
         <title>IA</title>
-        <link>http://localhost:1313/categories/ia/</link>
+        <link>https://geovanecavalcante.com/categories/ia/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/ia/</guid>
+        <guid>https://geovanecavalcante.com/categories/ia/</guid>
         <description></description>
         </item>
         <item>
         <title>Palestras</title>
-        <link>http://localhost:1313/categories/palestras/</link>
+        <link>https://geovanecavalcante.com/categories/palestras/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/palestras/</guid>
+        <guid>https://geovanecavalcante.com/categories/palestras/</guid>
         <description></description>
         </item>
         <item>
         <title>Python</title>
-        <link>http://localhost:1313/categories/python/</link>
+        <link>https://geovanecavalcante.com/categories/python/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/python/</guid>
+        <guid>https://geovanecavalcante.com/categories/python/</guid>
         <description></description>
         </item>
         <item>
         <title>Redes</title>
-        <link>http://localhost:1313/categories/redes/</link>
+        <link>https://geovanecavalcante.com/categories/redes/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/redes/</guid>
+        <guid>https://geovanecavalcante.com/categories/redes/</guid>
         <description></description>
         </item>
         <item>
         <title>Design Patterns</title>
-        <link>http://localhost:1313/categories/design-patterns/</link>
+        <link>https://geovanecavalcante.com/categories/design-patterns/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/design-patterns/</guid>
+        <guid>https://geovanecavalcante.com/categories/design-patterns/</guid>
         <description></description>
         </item>
         <item>
         <title>Banco De Dados</title>
-        <link>http://localhost:1313/categories/banco-de-dados/</link>
+        <link>https://geovanecavalcante.com/categories/banco-de-dados/</link>
         <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/banco-de-dados/</guid>
+        <guid>https://geovanecavalcante.com/categories/banco-de-dados/</guid>
         <description></description>
         </item>
         
