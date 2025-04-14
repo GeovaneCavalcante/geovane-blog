@@ -2,248 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Geovane Cavalcante</title>
-        <link>http://localhost:62975/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Algorithms</title>
-        <link>http://localhost:62975/tags/algorithms/</link>
+        <link>http://localhost:1313/tags/algorithms/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/algorithms/</guid>
+        <guid>http://localhost:1313/tags/algorithms/</guid>
         <description></description>
         </item>
         <item>
         <title>Function</title>
-        <link>http://localhost:62975/tags/function/</link>
+        <link>http://localhost:1313/tags/function/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/function/</guid>
+        <guid>http://localhost:1313/tags/function/</guid>
         <description></description>
         </item>
         <item>
         <title>Go</title>
-        <link>http://localhost:62975/tags/go/</link>
+        <link>http://localhost:1313/tags/go/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/go/</guid>
+        <guid>http://localhost:1313/tags/go/</guid>
         <description></description>
         </item>
         <item>
         <title>Programming</title>
-        <link>http://localhost:62975/tags/programming/</link>
+        <link>http://localhost:1313/tags/programming/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/programming/</guid>
+        <guid>http://localhost:1313/tags/programming/</guid>
         <description></description>
         </item>
         <item>
         <title>Capacita</title>
-        <link>http://localhost:62975/tags/capacita/</link>
+        <link>http://localhost:1313/tags/capacita/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/capacita/</guid>
+        <guid>http://localhost:1313/tags/capacita/</guid>
         <description></description>
         </item>
         <item>
         <title>IA</title>
-        <link>http://localhost:62975/tags/ia/</link>
+        <link>http://localhost:1313/tags/ia/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/ia/</guid>
+        <guid>http://localhost:1313/tags/ia/</guid>
         <description></description>
         </item>
         <item>
         <title>Inteligência Artificial</title>
-        <link>http://localhost:62975/tags/intelig%C3%AAncia-artificial/</link>
+        <link>http://localhost:1313/tags/intelig%C3%AAncia-artificial/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/intelig%C3%AAncia-artificial/</guid>
+        <guid>http://localhost:1313/tags/intelig%C3%AAncia-artificial/</guid>
         <description></description>
         </item>
         <item>
         <title>Produtividade</title>
-        <link>http://localhost:62975/tags/produtividade/</link>
+        <link>http://localhost:1313/tags/produtividade/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/produtividade/</guid>
+        <guid>http://localhost:1313/tags/produtividade/</guid>
         <description></description>
         </item>
         <item>
         <title>GopherCon</title>
-        <link>http://localhost:62975/tags/gophercon/</link>
+        <link>http://localhost:1313/tags/gophercon/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/gophercon/</guid>
+        <guid>http://localhost:1313/tags/gophercon/</guid>
         <description></description>
         </item>
         <item>
         <title>Microsserviços</title>
-        <link>http://localhost:62975/tags/microsservi%C3%A7os/</link>
+        <link>http://localhost:1313/tags/microsservi%C3%A7os/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/microsservi%C3%A7os/</guid>
+        <guid>http://localhost:1313/tags/microsservi%C3%A7os/</guid>
         <description></description>
         </item>
         <item>
         <title>Observabilidade</title>
-        <link>http://localhost:62975/tags/observabilidade/</link>
+        <link>http://localhost:1313/tags/observabilidade/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/observabilidade/</guid>
+        <guid>http://localhost:1313/tags/observabilidade/</guid>
         <description></description>
         </item>
         <item>
         <title>OpenTelemetry</title>
-        <link>http://localhost:62975/tags/opentelemetry/</link>
+        <link>http://localhost:1313/tags/opentelemetry/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/opentelemetry/</guid>
+        <guid>http://localhost:1313/tags/opentelemetry/</guid>
         <description></description>
         </item>
         <item>
         <title>Facimp</title>
-        <link>http://localhost:62975/tags/facimp/</link>
+        <link>http://localhost:1313/tags/facimp/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/facimp/</guid>
+        <guid>http://localhost:1313/tags/facimp/</guid>
         <description></description>
         </item>
         <item>
         <title>Iniciantes</title>
-        <link>http://localhost:62975/tags/iniciantes/</link>
+        <link>http://localhost:1313/tags/iniciantes/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/iniciantes/</guid>
+        <guid>http://localhost:1313/tags/iniciantes/</guid>
         <description></description>
         </item>
         <item>
         <title>Programação</title>
-        <link>http://localhost:62975/tags/programa%C3%A7%C3%A3o/</link>
+        <link>http://localhost:1313/tags/programa%C3%A7%C3%A3o/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/programa%C3%A7%C3%A3o/</guid>
+        <guid>http://localhost:1313/tags/programa%C3%A7%C3%A3o/</guid>
         <description></description>
         </item>
         <item>
         <title>Python</title>
-        <link>http://localhost:62975/tags/python/</link>
+        <link>http://localhost:1313/tags/python/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/python/</guid>
+        <guid>http://localhost:1313/tags/python/</guid>
         <description></description>
         </item>
         <item>
         <title>Flisol</title>
-        <link>http://localhost:62975/tags/flisol/</link>
+        <link>http://localhost:1313/tags/flisol/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/flisol/</guid>
+        <guid>http://localhost:1313/tags/flisol/</guid>
         <description></description>
         </item>
         <item>
         <title>Redes</title>
-        <link>http://localhost:62975/tags/redes/</link>
+        <link>http://localhost:1313/tags/redes/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/redes/</guid>
+        <guid>http://localhost:1313/tags/redes/</guid>
         <description></description>
         </item>
         <item>
         <title>SDN</title>
-        <link>http://localhost:62975/tags/sdn/</link>
+        <link>http://localhost:1313/tags/sdn/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/sdn/</guid>
+        <guid>http://localhost:1313/tags/sdn/</guid>
         <description></description>
         </item>
         <item>
         <title>Software Livre</title>
-        <link>http://localhost:62975/tags/software-livre/</link>
+        <link>http://localhost:1313/tags/software-livre/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/software-livre/</guid>
+        <guid>http://localhost:1313/tags/software-livre/</guid>
         <description></description>
         </item>
         <item>
         <title>Design Patterns</title>
-        <link>http://localhost:62975/tags/design-patterns/</link>
+        <link>http://localhost:1313/tags/design-patterns/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/design-patterns/</guid>
+        <guid>http://localhost:1313/tags/design-patterns/</guid>
         <description></description>
         </item>
         <item>
         <title>Selenium</title>
-        <link>http://localhost:62975/tags/selenium/</link>
+        <link>http://localhost:1313/tags/selenium/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/selenium/</guid>
+        <guid>http://localhost:1313/tags/selenium/</guid>
         <description></description>
         </item>
         <item>
         <title>Singleton</title>
-        <link>http://localhost:62975/tags/singleton/</link>
+        <link>http://localhost:1313/tags/singleton/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/singleton/</guid>
+        <guid>http://localhost:1313/tags/singleton/</guid>
         <description></description>
         </item>
         <item>
         <title>WebDriver</title>
-        <link>http://localhost:62975/tags/webdriver/</link>
+        <link>http://localhost:1313/tags/webdriver/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/webdriver/</guid>
+        <guid>http://localhost:1313/tags/webdriver/</guid>
         <description></description>
         </item>
         <item>
         <title>Automação</title>
-        <link>http://localhost:62975/tags/automa%C3%A7%C3%A3o/</link>
+        <link>http://localhost:1313/tags/automa%C3%A7%C3%A3o/</link>
         <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/automa%C3%A7%C3%A3o/</guid>
+        <guid>http://localhost:1313/tags/automa%C3%A7%C3%A3o/</guid>
         <description></description>
         </item>
         <item>
         <title>Web Scraping</title>
-        <link>http://localhost:62975/tags/web-scraping/</link>
+        <link>http://localhost:1313/tags/web-scraping/</link>
         <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/web-scraping/</guid>
+        <guid>http://localhost:1313/tags/web-scraping/</guid>
         <description></description>
         </item>
         <item>
         <title>Banco De Dados</title>
-        <link>http://localhost:62975/tags/banco-de-dados/</link>
+        <link>http://localhost:1313/tags/banco-de-dados/</link>
         <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/banco-de-dados/</guid>
+        <guid>http://localhost:1313/tags/banco-de-dados/</guid>
         <description></description>
         </item>
         <item>
         <title>Desenvolvimento</title>
-        <link>http://localhost:62975/tags/desenvolvimento/</link>
+        <link>http://localhost:1313/tags/desenvolvimento/</link>
         <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/desenvolvimento/</guid>
+        <guid>http://localhost:1313/tags/desenvolvimento/</guid>
         <description></description>
         </item>
         <item>
         <title>Frameworks</title>
-        <link>http://localhost:62975/tags/frameworks/</link>
+        <link>http://localhost:1313/tags/frameworks/</link>
         <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/frameworks/</guid>
+        <guid>http://localhost:1313/tags/frameworks/</guid>
         <description></description>
         </item>
         <item>
         <title>ORM</title>
-        <link>http://localhost:62975/tags/orm/</link>
+        <link>http://localhost:1313/tags/orm/</link>
         <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/tags/orm/</guid>
+        <guid>http://localhost:1313/tags/orm/</guid>
         <description></description>
         </item>
         

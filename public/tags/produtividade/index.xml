@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Produtividade on Geovane Cavalcante</title>
-        <link>http://localhost:62975/tags/produtividade/</link>
+        <link>http://localhost:1313/tags/produtividade/</link>
         <description>Recent content in Produtividade on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/tags/produtividade/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/produtividade/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Como utilizar inteligência artificial na sua rotina de trabalho</title>
-        <link>http://localhost:62975/talks/ia-na-rotina-de-trabalho/</link>
+        <link>http://localhost:1313/talks/ia-na-rotina-de-trabalho/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/talks/ia-na-rotina-de-trabalho/</guid>
+        <guid>http://localhost:1313/talks/ia-na-rotina-de-trabalho/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação sobre como integrar e aproveitar ferramentas de inteligência artificial para melhorar a produtividade no trabalho.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;

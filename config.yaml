@@ -28,7 +28,28 @@ menu:
       name: 'Sobre'
       url: '/about'
       weight: 30
-  
+  social:
+    - identifier: linkedin
+      name: LinkedIn
+      url: https://www.linkedin.com/in/geovanecavalcante/
+      params:
+          icon: brand-linkedin
+          
+    - identifier: github
+      name: GitHub
+      url: https://github.com/GeovaneCavalcante
+      params:
+          icon: brand-github
+
+    - identifier: twitter
+      name: Twitter
+      url: https://x.com/geovane_dev
+      params:
+          icon: brand-twitter
+
+
+          
+
 params:
   mainSections: ['posts', 'talks']
   description: 'Blog pessoal de Geovane'
@@ -93,6 +114,25 @@ params:
 
   footer:
     since: 2024
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/geovanecavalcante
+      params:
+        icon: brand-github
+
+    - identifier: twitter
+      name: Twitter
+      url: https://twitter.com/geovanecavalcante
+      params:
+        icon: brand-twitter
+
+    - identifier: linkedin
+      name: LinkedIn
+      url: https://linkedin.com/in/geovanecavalcante
+      params:
+        icon: brand-linkedin
 
   dateFormat:
     published: 'Jan 02, 2006'

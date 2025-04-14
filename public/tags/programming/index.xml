@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Programming on Geovane Cavalcante</title>
-        <link>http://localhost:62975/tags/programming/</link>
+        <link>http://localhost:1313/tags/programming/</link>
         <description>Recent content in Programming on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/tags/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Desvendando funções anônimas e variádicas em Go</title>
-        <link>http://localhost:62975/posts/funcoes-anonimas-variaveis-go/</link>
+        <link>http://localhost:1313/posts/funcoes-anonimas-variaveis-go/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/posts/funcoes-anonimas-variaveis-go/</guid>
+        <guid>http://localhost:1313/posts/funcoes-anonimas-variaveis-go/</guid>
         <description>&lt;p&gt;Funções são populares na maiorias da linguagens de programação. Elas oferecem maneiras de encapsular trechos de código que podem ser reaproveitados em partes distintas de um programa, possibilitando dividir grandes tarefas em partes menores, tornando-se um grande pilar na modularização.&lt;/p&gt;
 &lt;p&gt;Em Go, as funções têm uma estrutura de definição com o nome, uma lista de parâmetros de entrada especificando o nome e o tipo das variáveis. Estas variáveis recebem os valores dos argumentos passados na chamada da função e que tem escopo local, também uma lista de parâmetros de saída que podem ser capturados no retorno após a função ser executada. Confira o exemplo abaixo de uma função que recebe dois argumentos inteiros &amp;ldquo;a&amp;rdquo; e &amp;ldquo;b&amp;rdquo; e retorna a soma dos dois inteiros.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Sum&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;b&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;) (&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;) {

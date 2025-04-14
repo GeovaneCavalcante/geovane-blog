@@ -1,0 +1,21 @@
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.social-links a {
+    color: var(--card-text-color-main);
+    font-size: 1.5rem;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: var(--card-text-color-secondary);
+}
+
+.site-footer {
+    padding: 2rem 0;
+    text-align: center;
+}

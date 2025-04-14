@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Geovane Cavalcante</title>
-        <link>http://localhost:62975/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Desvendando funções anônimas e variádicas em Go</title>
-        <link>http://localhost:62975/posts/funcoes-anonimas-variaveis-go/</link>
+        <link>http://localhost:1313/posts/funcoes-anonimas-variaveis-go/</link>
         <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/posts/funcoes-anonimas-variaveis-go/</guid>
+        <guid>http://localhost:1313/posts/funcoes-anonimas-variaveis-go/</guid>
         <description>&lt;p&gt;Funções são populares na maiorias da linguagens de programação. Elas oferecem maneiras de encapsular trechos de código que podem ser reaproveitados em partes distintas de um programa, possibilitando dividir grandes tarefas em partes menores, tornando-se um grande pilar na modularização.&lt;/p&gt;
 &lt;p&gt;Em Go, as funções têm uma estrutura de definição com o nome, uma lista de parâmetros de entrada especificando o nome e o tipo das variáveis. Estas variáveis recebem os valores dos argumentos passados na chamada da função e que tem escopo local, também uma lista de parâmetros de saída que podem ser capturados no retorno após a função ser executada. Confira o exemplo abaixo de uma função que recebe dois argumentos inteiros &amp;ldquo;a&amp;rdquo; e &amp;ldquo;b&amp;rdquo; e retorna a soma dos dois inteiros.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Sum&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;b&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;) (&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt;) {
@@ -166,10 +166,10 @@
         </item>
         <item>
         <title>Singleton Python para compartilhamento de instância do Web Driver Selenium</title>
-        <link>http://localhost:62975/posts/singleton-python-selenium/</link>
+        <link>http://localhost:1313/posts/singleton-python-selenium/</link>
         <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/posts/singleton-python-selenium/</guid>
+        <guid>http://localhost:1313/posts/singleton-python-selenium/</guid>
         <description>&lt;p&gt;Utilizando Selenium em alguns casos você precisa de uma única instância desse web driver em várias partes da sua aplicação, como exemplo uma aplicação para WhatsApp Web. Guardar a sessão do web driver e carregá-la em uma nova instância ao necessitar em mais de um serviço, pode acabar tendo perda de performance e flexibilidade da aplicação, então usar uma padrão de projeto como Singleton acaba sendo uma boa saída.&lt;/p&gt;
 &lt;p&gt;O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância. Utilizar o padrão Singleton quando uma classe em seu programa deve ter apenas uma instância disponível para todos seus clientes; por exemplo, um objeto de base de dados único compartilhado por diferentes partes do programa.&lt;/p&gt;
 &lt;h2 id=&#34;exemplo&#34;&gt;Exemplo
@@ -212,10 +212,10 @@
         </item>
         <item>
         <title>Selenium Python em Headless no Chrome</title>
-        <link>http://localhost:62975/posts/selenium-python-headless-chrome/</link>
+        <link>http://localhost:1313/posts/selenium-python-headless-chrome/</link>
         <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/posts/selenium-python-headless-chrome/</guid>
+        <guid>http://localhost:1313/posts/selenium-python-headless-chrome/</guid>
         <description>&lt;p&gt;Em muitos cenários ao utilizar Selenium para web scraping com Python você não pode executar o webdriver com seu padrão. Este abre uma janela com a interface gráfica, como na execução em servidores onde não tem a disponibilidade desse recurso.&lt;/p&gt;
 &lt;p&gt;Headless é uma opção para executar seus testes sem a necessidade de abrir o browser em um ambiente gráfico, essa função executa o serviço em background, onde toda manipulação acontece por debaixo dos panos. Por sua vez Google Chrome webdriver disponibiliza esse recurso, mas em algumas das suas versões se encontram com problemas ao serem usadas. Nesse tutorial disponibilizarei a versão e o método no qual consegui executar meus projetos.&lt;/p&gt;
 &lt;p&gt;O link para &lt;a class=&#34;link&#34; href=&#34;https://chromedriver.storage.googleapis.com/index.html?path=2.41%2F&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -241,10 +241,10 @@
         </item>
         <item>
         <title>O que é mapeamento objeto relacional? (ORM)</title>
-        <link>http://localhost:62975/posts/orm/</link>
+        <link>http://localhost:1313/posts/orm/</link>
         <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:62975/posts/orm/</guid>
+        <guid>http://localhost:1313/posts/orm/</guid>
         <description>&lt;p&gt;No desenvolvimento de software é muito comum usar linguagens de programação com o paradigma orientado a objetos e em suas bases de dados utilizam banco de dados relacionais. Embora tenha passado muito tempo, os bancos de dados relacionais continuam muito fortes no mercado, então começou-se a usar uma técnica de programação para abstrair a diferença entre esses paradigmas.&lt;/p&gt;
 &lt;p&gt;ORM é uma camada que mapeia o modelo de objetos (aplicação) e o modelo relacional (base de dados). Onde é abstraída a diferença entre os paradigmas, e o mesmo fará o papel de manager. Você não precisará escrever queries SQL, suas classes ajudarão a persistir os dados e buscá-los. Além de muitos recursos que diferenciam-se entre as ferramentas que utilizam dessa técnica.&lt;/p&gt;
 &lt;h2 id=&#34;frameworks-que-utilizam-orm&#34;&gt;Frameworks que utilizam ORM
