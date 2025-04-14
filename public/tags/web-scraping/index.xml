@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Web Scraping on Geovane Cavalcante</title>
-        <link>https://geovanecavalcante.com/tags/web-scraping/</link>
+        <link>http://localhost:1313/tags/web-scraping/</link>
         <description>Recent content in Web Scraping on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://geovanecavalcante.com/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Selenium Python em Headless no Chrome</title>
-        <link>https://geovanecavalcante.com/posts/selenium-python-headless-chrome/</link>
+        <link>http://localhost:1313/posts/selenium-python-headless-chrome/</link>
         <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://geovanecavalcante.com/posts/selenium-python-headless-chrome/</guid>
+        <guid>http://localhost:1313/posts/selenium-python-headless-chrome/</guid>
         <description>&lt;p&gt;Em muitos cenários ao utilizar Selenium para web scraping com Python você não pode executar o webdriver com seu padrão. Este abre uma janela com a interface gráfica, como na execução em servidores onde não tem a disponibilidade desse recurso.&lt;/p&gt;
 &lt;p&gt;Headless é uma opção para executar seus testes sem a necessidade de abrir o browser em um ambiente gráfico, essa função executa o serviço em background, onde toda manipulação acontece por debaixo dos panos. Por sua vez Google Chrome webdriver disponibiliza esse recurso, mas em algumas das suas versões se encontram com problemas ao serem usadas. Nesse tutorial disponibilizarei a versão e o método no qual consegui executar meus projetos.&lt;/p&gt;
 &lt;p&gt;O link para &lt;a class=&#34;link&#34; href=&#34;https://chromedriver.storage.googleapis.com/index.html?path=2.41%2F&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
