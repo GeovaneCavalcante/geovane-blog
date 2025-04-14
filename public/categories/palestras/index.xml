@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Palestras on Geovane Cavalcante</title>
-        <link>http://localhost:1313/categories/palestras/</link>
+        <link>http://localhost:62975/categories/palestras/</link>
         <description>Recent content in Palestras on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/palestras/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/categories/palestras/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Como utilizar inteligência artificial na sua rotina de trabalho</title>
-        <link>http://localhost:1313/talks/ia-na-rotina-de-trabalho/</link>
+        <link>http://localhost:62975/talks/ia-na-rotina-de-trabalho/</link>
         <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/talks/ia-na-rotina-de-trabalho/</guid>
+        <guid>http://localhost:62975/talks/ia-na-rotina-de-trabalho/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação sobre como integrar e aproveitar ferramentas de inteligência artificial para melhorar a produtividade no trabalho.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
@@ -27,10 +27,10 @@
         </item>
         <item>
         <title>Instrumentalizando microsserviços em Go com OpenTelemetry</title>
-        <link>http://localhost:1313/talks/instrumentalizando-microservicos-go-opentelemetry/</link>
+        <link>http://localhost:62975/talks/instrumentalizando-microservicos-go-opentelemetry/</link>
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/talks/instrumentalizando-microservicos-go-opentelemetry/</guid>
+        <guid>http://localhost:62975/talks/instrumentalizando-microservicos-go-opentelemetry/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação sobre instrumentalização de microsserviços escritos em Go utilizando OpenTelemetry, abordando conceitos de observabilidade e sua implementação na prática.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
@@ -46,10 +46,10 @@
         </item>
         <item>
         <title>Onboard Python</title>
-        <link>http://localhost:1313/talks/onboard-python/</link>
+        <link>http://localhost:62975/talks/onboard-python/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/talks/onboard-python/</guid>
+        <guid>http://localhost:62975/talks/onboard-python/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação introdutória sobre a linguagem de programação Python.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
@@ -65,10 +65,10 @@
         </item>
         <item>
         <title>SDN Com Software Livre</title>
-        <link>http://localhost:1313/talks/sdn-com-software-livre/</link>
+        <link>http://localhost:62975/talks/sdn-com-software-livre/</link>
         <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/talks/sdn-com-software-livre/</guid>
+        <guid>http://localhost:62975/talks/sdn-com-software-livre/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação sobre Software Defined Network (SDN) e como implementá-lo utilizando soluções de software livre.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;

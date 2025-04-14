@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Iniciantes on Geovane Cavalcante</title>
-        <link>http://localhost:1313/tags/iniciantes/</link>
+        <link>http://localhost:62975/tags/iniciantes/</link>
         <description>Recent content in Iniciantes on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/iniciantes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/tags/iniciantes/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Onboard Python</title>
-        <link>http://localhost:1313/talks/onboard-python/</link>
+        <link>http://localhost:62975/talks/onboard-python/</link>
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/talks/onboard-python/</guid>
+        <guid>http://localhost:62975/talks/onboard-python/</guid>
         <description>&lt;h2 id=&#34;sobre-a-palestra&#34;&gt;Sobre a Palestra
 &lt;/h2&gt;&lt;p&gt;Apresentação introdutória sobre a linguagem de programação Python.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;

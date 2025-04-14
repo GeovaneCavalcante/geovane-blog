@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Banco De Dados on Geovane Cavalcante</title>
-        <link>http://localhost:1313/categories/banco-de-dados/</link>
+        <link>http://localhost:62975/categories/banco-de-dados/</link>
         <description>Recent content in Banco De Dados on Geovane Cavalcante</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/banco-de-dados/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/categories/banco-de-dados/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>O que é mapeamento objeto relacional? (ORM)</title>
-        <link>http://localhost:1313/posts/orm/</link>
-        <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+        <link>http://localhost:62975/posts/orm/</link>
+        <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/posts/orm/</guid>
-        <description>&lt;img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/11/03082200/ORM-CAPA.png" alt="Featured image of post O que é mapeamento objeto relacional? (ORM)" /&gt;&lt;p&gt;No desenvolvimento de software é muito comum usar linguagens de programação com o paradigma orientado a objetos e em suas bases de dados utilizam banco de dados relacionais. Embora tenha passado muito tempo, os bancos de dados relacionais continuam muito fortes no mercado, então começou-se a usar uma técnica de programação para abstrair a diferença entre esses paradigmas.&lt;/p&gt;
+        <guid>http://localhost:62975/posts/orm/</guid>
+        <description>&lt;p&gt;No desenvolvimento de software é muito comum usar linguagens de programação com o paradigma orientado a objetos e em suas bases de dados utilizam banco de dados relacionais. Embora tenha passado muito tempo, os bancos de dados relacionais continuam muito fortes no mercado, então começou-se a usar uma técnica de programação para abstrair a diferença entre esses paradigmas.&lt;/p&gt;
 &lt;p&gt;ORM é uma camada que mapeia o modelo de objetos (aplicação) e o modelo relacional (base de dados). Onde é abstraída a diferença entre os paradigmas, e o mesmo fará o papel de manager. Você não precisará escrever queries SQL, suas classes ajudarão a persistir os dados e buscá-los. Além de muitos recursos que diferenciam-se entre as ferramentas que utilizam dessa técnica.&lt;/p&gt;
 &lt;h2 id=&#34;frameworks-que-utilizam-orm&#34;&gt;Frameworks que utilizam ORM
 &lt;/h2&gt;&lt;p&gt;Geralmente ORMs encontram-se em Frameworks, mas muitos desenvolvedores costumam desenvolver seu próprio. Uma lista de algumas ferramentas que utilizam ORM:&lt;/p&gt;

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Web Scraping on Geovane Cavalcante</title>
+        <link>http://localhost:62975/tags/web-scraping/</link>
+        <description>Recent content in Web Scraping on Geovane Cavalcante</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt-br</language>
+        <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62975/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Selenium Python em Headless no Chrome</title>
+        <link>http://localhost:62975/posts/selenium-python-headless-chrome/</link>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:62975/posts/selenium-python-headless-chrome/</guid>
+        <description>&lt;p&gt;Em muitos cenários ao utilizar Selenium para web scraping com Python você não pode executar o webdriver com seu padrão. Este abre uma janela com a interface gráfica, como na execução em servidores onde não tem a disponibilidade desse recurso.&lt;/p&gt;
+&lt;p&gt;Headless é uma opção para executar seus testes sem a necessidade de abrir o browser em um ambiente gráfico, essa função executa o serviço em background, onde toda manipulação acontece por debaixo dos panos. Por sua vez Google Chrome webdriver disponibiliza esse recurso, mas em algumas das suas versões se encontram com problemas ao serem usadas. Nesse tutorial disponibilizarei a versão e o método no qual consegui executar meus projetos.&lt;/p&gt;
+&lt;p&gt;O link para &lt;a class=&#34;link&#34; href=&#34;https://chromedriver.storage.googleapis.com/index.html?path=2.41%2F&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ChromeDriver na versão 2.41&lt;/a&gt;, lembrando que as ferramentas usadas são Python 3x e Selenium 3.&lt;/p&gt;
+&lt;h2 id=&#34;exemplo&#34;&gt;Exemplo
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; selenium &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; webdriver
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; selenium.webdriver.chrome.options &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Options
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chrome_options &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Options()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chrome_options&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;add_argument(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;--headless&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chrome_options&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;add_argument(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;--no-sandbox&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chrome_options&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;add_argument(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;--disable-dev-shm-usage&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;driver &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; webdriver&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Chrome(
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    options&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;chrome_options,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    executable_path&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;./chromedriver&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;No exemplo acima é feito a importação do módulo de webdrive da biblioteca selenium juntamento com com a classe Options. Seguindo os passos, primeiramente é feito a instância da classe e o preenchimento dos argumentos necessários para usarmos o webdrive em modo Headless.&lt;/p&gt;
+&lt;p&gt;Por fim é feito a instância do webdrive do Google Chrome, passando no primeiro parâmetro a instância da classe com as configurações necessárias e no segundo parâmetro o caminho no qual está localizado o o binário do chromedriver baixado pelo link disponibilizado.&lt;/p&gt;
+&lt;h2 id=&#34;conclusão&#34;&gt;Conclusão
+&lt;/h2&gt;&lt;p&gt;Em busca de diversos webdrives disponíveis como FireFox, Opera e etc e até mesmo a o Google Chrome, somente com o binário da versão 2.41 foi obtido êxito ao usar o recurso.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

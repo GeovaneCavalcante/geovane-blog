@@ -1,7 +1,14 @@
-baseURL: 'https://geovane.dev/'
+baseURL: 'https://geovanecavalcante.com/'
 languageCode: 'pt-br'
+defaultContentLanguage: 'pt-br'
 title: 'Geovane Cavalcante'
 theme: 'stack'
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 menu:
   main:
@@ -19,9 +26,9 @@ menu:
       weight: 25
     - identifier: 'about'
       name: 'Sobre'
-      url: '/about/'
+      url: '/about'
       weight: 30
-
+  
 params:
   mainSections: ['posts', 'talks']
   description: 'Blog pessoal de Geovane'
@@ -37,26 +44,38 @@ params:
     readingTime: true
     license:
       enabled: false
+    share:
+      enabled: true
+      networks:
+        - twitter
+        - facebook
+        - linkedin
+        - whatsapp
+        - telegram
 
   widgets:
     homepage:
       - type: search
-      - type: archives
-        params:
-          limit: 5
       - type: categories
         params:
           limit: 10
       - type: tag-cloud
         params:
           limit: 10
+      - type: archives
+        params:
+          limit: 5
 
-  socialShare: true
-  socialShareTwitter: true
-  socialShareFacebook: true
-  socialShareLinkedin: true
-  socialShareWhatsapp: true
-  socialShareTelegram: true
+  opengraph:
+    twitter:
+      site: 
+      card: summary_large_image
+
+  defaultImage:
+    opengraph:
+      enabled: true
+      local: false
+      src: 
 
   comments:
     enabled: true

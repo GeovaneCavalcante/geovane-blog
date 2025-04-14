@@ -1,0 +1,27 @@
+search:
+    title: Pesquisar
+    placeholder: Digite para buscar...
+
+article:
+    back: Voltar
+    tableOfContents: Índice
+    relatedContent: Conteúdo Relacionado
+    lastUpdatedOn: Última atualização em
+    readingTime: "Tempo de leitura: {{ .Count }} min"
+
+archive:
+    title: Arquivo
+
+list:
+    showMore: Mostrar mais
+    noPost: Nenhum post encontrado.
+
+sidebar:
+    archives: Arquivos
+    categories: Categorias
+    tags: Tags
+    recent: Posts Recentes
+    series: Séries
+
+footer:
+    poweredBy: Feito com {{ .Generator }} 

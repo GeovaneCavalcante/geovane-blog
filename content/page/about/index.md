@@ -3,6 +3,7 @@ title: "Sobre"
 description: "Um pouco sobre mim"
 date: 2024-03-24
 layout: "about"
+slug: "about"
 ---
 
 # Olá! 👋

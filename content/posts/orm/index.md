@@ -1,10 +1,9 @@
 ---
 title: "O que é mapeamento objeto relacional? (ORM)"
 description: "Entenda o conceito de ORM e como ele facilita o desenvolvimento de software"
-date: 2024-03-24
+date: 2018-01-26
 categories: ["Desenvolvimento", "Banco de Dados"]
 tags: ["ORM", "Banco de Dados", "Desenvolvimento", "Frameworks"]
-image: "https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/11/03082200/ORM-CAPA.png"
 ---
 
 No desenvolvimento de software é muito comum usar linguagens de programação com o paradigma orientado a objetos e em suas bases de dados utilizam banco de dados relacionais. Embora tenha passado muito tempo, os bancos de dados relacionais continuam muito fortes no mercado, então começou-se a usar uma técnica de programação para abstrair a diferença entre esses paradigmas.
