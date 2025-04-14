@@ -2,8 +2,7 @@
 title: "Sobre"
 description: "Um pouco sobre mim"
 date: 2024-03-24
-layout: "about"
-slug: "about"
+type: "page"
 ---
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Nos últimos 8 anos, venho criando soluções escaláveis e de alta performance, lidando com desafios de arquitetura, sistemas distribuídos e plataformas robustas. Gosto de pensar na engenharia além do código — focando em boas práticas, clareza, resiliência e impacto real no dia a dia das pessoas e dos times.
