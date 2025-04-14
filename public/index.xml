@@ -8,58 +8,34 @@
         <language>pt-br</language>
         <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geovanecavalcante.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Sobre</title>
-        <link>https://geovanecavalcante.com/page/about/</link>
+        <link>https://geovanecavalcante.com/about/</link>
         <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://geovanecavalcante.com/page/about/</guid>
-        <description>&lt;h1 id=&#34;olá-&#34;&gt;Olá! 👋
-&lt;/h1&gt;&lt;p&gt;Sou um amante da tecnologia, especialmente na área de desenvolvimento de software. Com 8 anos de experiência, já trabalhei em diversos projetos desafiadores, desde startups até grandes empresas, sempre buscando criar soluções robustas e escaláveis.&lt;/p&gt;
-&lt;h2 id=&#34;habilidades-técnicas&#34;&gt;Habilidades Técnicas
-&lt;/h2&gt;&lt;h3 id=&#34;arquitetura-de-software&#34;&gt;Arquitetura de Software
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Design de sistemas distribuídos e escaláveis&lt;/li&gt;
-&lt;li&gt;Arquitetura de microsserviços e eventos&lt;/li&gt;
-&lt;li&gt;Padrões de projeto e boas práticas&lt;/li&gt;
-&lt;li&gt;Clean Architecture e Domain-Driven Design&lt;/li&gt;
-&lt;li&gt;Event Sourcing e CQRS&lt;/li&gt;
-&lt;li&gt;Arquitetura orientada a eventos&lt;/li&gt;
-&lt;li&gt;Design de APIs e interfaces&lt;/li&gt;
+        <guid>https://geovanecavalcante.com/about/</guid>
+        <description>&lt;p&gt;Sou apaixonado por tecnologia e desenvolvimento de software. Nos últimos 8 anos, venho criando soluções escaláveis e de alta performance, lidando com desafios de arquitetura, sistemas distribuídos e plataformas robustas. Gosto de pensar a engenharia além do código — focando em boas práticas, clareza, resiliência e impacto real no dia a dia das pessoas e dos times.&lt;/p&gt;
+&lt;h2 id=&#34;sobre-o-que-curto-trabalhar&#34;&gt;Sobre o que curto trabalhar
+&lt;/h2&gt;&lt;p&gt;Grande parte do meu tempo é dedicada a desenhar e construir sistemas backend bem estruturados. Tenho uma quedinha por arquitetura de software, especialmente quando envolve microsserviços, eventos e boas práticas como DDD, Clean Architecture, Event Sourcing e CQRS.&lt;/p&gt;
+&lt;p&gt;Também sou bem envolvido com infraestrutura — seja na automação de pipelines, no provisionamento de ambientes em nuvem ou na garantia de observabilidade, resiliência e performance em produção.&lt;/p&gt;
+&lt;h2 id=&#34;gosto-de-estudar-e-aplicar&#34;&gt;Gosto de estudar e aplicar&amp;hellip;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Arquiteturas escaláveis e orientadas a eventos&lt;/li&gt;
+&lt;li&gt;Design de APIs, mensageria, filas e sistemas distribuídos&lt;/li&gt;
+&lt;li&gt;CI/CD, infraestrutura como código e boas práticas de DevOps&lt;/li&gt;
+&lt;li&gt;Monitoramento com Prometheus, Grafana e OpenTelemetry&lt;/li&gt;
+&lt;li&gt;Bancos de dados relacionais e não relacionais, caches e otimizações&lt;/li&gt;
+&lt;li&gt;Soluções em nuvem com foco em AWS, Kubernetes, Docker&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;backend--infraestrutura&#34;&gt;Backend &amp;amp; Infraestrutura
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Desenvolvimento de sistemas distribuídos&lt;/li&gt;
-&lt;li&gt;Arquitetura de mensageria e filas&lt;/li&gt;
-&lt;li&gt;Cloud Computing e arquitetura serverless&lt;/li&gt;
-&lt;li&gt;Observabilidade e monitoramento&lt;/li&gt;
-&lt;li&gt;Alta disponibilidade e resiliência&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;devops--automação&#34;&gt;DevOps &amp;amp; Automação
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Entrega contínua e integração contínua&lt;/li&gt;
-&lt;li&gt;Automação de processos&lt;/li&gt;
-&lt;li&gt;Infraestrutura como código&lt;/li&gt;
-&lt;li&gt;Monitoramento e alertas&lt;/li&gt;
-&lt;li&gt;Gestão de configuração&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;bancos-de-dados&#34;&gt;Bancos de Dados
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Modelagem de dados&lt;/li&gt;
-&lt;li&gt;Otimização de consultas&lt;/li&gt;
-&lt;li&gt;Bancos de dados distribuídos&lt;/li&gt;
-&lt;li&gt;Cache e performance&lt;/li&gt;
-&lt;li&gt;Consistência eventual e forte&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contato&#34;&gt;Contato
-&lt;/h2&gt;&lt;p&gt;Você pode me encontrar em:&lt;/p&gt;
+&lt;h2 id=&#34;vamos-trocar-uma-ideia&#34;&gt;Vamos trocar uma ideia?
+&lt;/h2&gt;&lt;p&gt;Gosto muito de compartilhar conhecimento, discutir ideias, aprender e ensinar.&lt;br&gt;
+Se quiser bater um papo sobre arquitetura, backend, carreira ou qualquer outro assunto tech, me chama por aí:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;💼 LinkedIn: &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/geovanecavalcante/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;linkedin.com/in/geovanecavalcante&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👨‍💻 GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/GeovaneCavalcante&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;github.com/GeovaneCavalcante&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a class=&#34;link&#34; href=&#34;https://x.com/geovane_dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;@geovane_dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;a class=&#34;link&#34; href=&#34;https://linkedin.com/in/geovanecavalcante&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👨‍💻 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GeovaneCavalcante&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/geovane_dev&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter / X&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Gosto de compartilhar conhecimento e experiências sobre desenvolvimento de software. Se quiser bater um papo sobre tecnologia, arquitetura de software ou qualquer outro assunto relacionado, é só me chamar! 😊&lt;/p&gt;
 </description>
         </item>
         <item>

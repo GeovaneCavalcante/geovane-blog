@@ -5,10 +5,7 @@
     <loc>https://geovanecavalcante.com/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geovanecavalcante.com/page/</loc>
-    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geovanecavalcante.com/page/about/</loc>
+    <loc>https://geovanecavalcante.com/about/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geovanecavalcante.com/tags/algorithms/</loc>
@@ -167,5 +164,7 @@
     <loc>https://geovanecavalcante.com/archives/</loc>
   </url><url>
     <loc>https://geovanecavalcante.com/page/search/</loc>
+  </url><url>
+    <loc>https://geovanecavalcante.com/page/</loc>
   </url>
 </urlset>
