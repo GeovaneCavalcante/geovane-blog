@@ -1,0 +1,62 @@
+<div class="share-buttons">
+    <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank"
+        rel="noopener noreferrer" class="share-button twitter">
+        <i class="fab fa-twitter"></i> Twitter
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener noreferrer"
+        class="share-button facebook">
+        <i class="fab fa-facebook"></i> Facebook
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}" target="_blank"
+        rel="noopener noreferrer" class="share-button linkedin">
+        <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+    <a href="https://api.whatsapp.com/send?text={{ .Title }}%20{{ .Permalink }}" target="_blank"
+        rel="noopener noreferrer" class="share-button whatsapp">
+        <i class="fab fa-whatsapp"></i> WhatsApp
+    </a>
+</div>
+
+<style>
+    .share-buttons {
+        display: flex;
+        gap: 10px;
+        margin: 20px 0;
+        flex-wrap: wrap;
+    }
+
+    .share-button {
+        display: inline-flex;
+        align-items: center;
+        padding: 8px 16px;
+        border-radius: 4px;
+        color: white;
+        text-decoration: none;
+        font-weight: 500;
+        transition: opacity 0.3s;
+    }
+
+    .share-button:hover {
+        opacity: 0.9;
+    }
+
+    .share-button i {
+        margin-right: 8px;
+    }
+
+    .twitter {
+        background-color: #1DA1F2;
+    }
+
+    .facebook {
+        background-color: #1877F2;
+    }
+
+    .linkedin {
+        background-color: #0077B5;
+    }
+
+    .whatsapp {
+        background-color: #25D366;
+    }
+</style>
