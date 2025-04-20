@@ -1,0 +1,22 @@
+<!-- Firebase App (the core Firebase SDK) -->
+<script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+
+<!-- Firebase Analytics -->
+<script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-analytics-compat.js"></script>
+
+<script>
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "{{ .Site.Params.firebase.apiKey }}",
+        authDomain: "{{ .Site.Params.firebase.authDomain }}",
+        projectId: "{{ .Site.Params.firebase.projectId }}",
+        storageBucket: "{{ .Site.Params.firebase.storageBucket }}",
+        messagingSenderId: "{{ .Site.Params.firebase.messagingSenderId }}",
+        appId: "{{ .Site.Params.firebase.appId }}",
+        measurementId: "{{ .Site.Params.firebase.measurementId }}"
+    };
+
+    // Initialize Firebase
+    const app = firebase.initializeApp(firebaseConfig);
+    const analytics = firebase.analytics();
+</script>
