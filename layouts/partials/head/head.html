@@ -16,7 +16,7 @@
 
 {{- partial "head/style.html" . -}}
 {{- partial "head/script.html" . -}}
-{{- partial "head/opengraph/include.html" . -}}
+{{- partial "head/og.html" . -}}
 
 {{- range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">

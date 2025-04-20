@@ -4,6 +4,7 @@ description: "Explorando os conceitos de funções anônimas e variádicas na li
 date: 2024-03-21
 categories: ["Desenvolvimento", "Go", "Programação"]
 tags: ["Go", "Algorithms", "Function", "Programming"]
+image: "https://dkrn4sk0rn31v.cloudfront.net/uploads/2022/10/o-que-e-e-como-comecar-com-golang.jpg"
 ---
 
 Funções são populares na maiorias da linguagens de programação. Elas oferecem maneiras de encapsular trechos de código que podem ser reaproveitados em partes distintas de um programa, possibilitando dividir grandes tarefas em partes menores, tornando-se um grande pilar na modularização.

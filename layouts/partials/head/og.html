@@ -1,0 +1,49 @@
+{{- $defaultImage := "/images/og-image.jpg" -}}
+{{- $image := "" -}}
+{{- with .Params.cover -}}
+{{- $image = . -}}
+{{- else -}}
+{{- with .Params.image -}}
+{{- $image = . -}}
+{{- else -}}
+{{- with .Params.thumbnail -}}
+{{- $image = . -}}
+{{- else -}}
+{{- $image = $defaultImage -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta property="og:description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
+<meta property="og:image" content="{{ $image | absURL }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="{{ .Site.LanguageCode | default " pt-BR" }}" />
+
+<!-- Article Specific (apenas se for um post) -->
+{{ if and .IsPage (eq .Type "post") }}
+<meta property="article:published_time" content="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}" />
+<meta property="article:modified_time" content="{{ .Lastmod.Format " 2006-01-02T15:04:05Z07:00" }}" />
+{{ with .Params.tags }}
+{{ range . }}
+<meta property="article:tag" content="{{ . }}" />
+{{ end }}
+{{ end }}
+{{ end }}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@geovane_dev" />
+<meta name="twitter:creator" content="@geovane_dev" />
+<meta name="twitter:url" content="{{ .Permalink }}" />
+<meta name="twitter:title"
+    content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}" />
+<meta name="twitter:description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
+<meta name="twitter:image" content="{{ $image | absURL }}" />
